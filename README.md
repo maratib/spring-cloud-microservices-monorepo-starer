@@ -1,4 +1,4 @@
-# Spring Cloud Microservice Monorepo
+# Spring Cloud Microservices Monorepo
 
 ### Howto create a new service from blank project
 
