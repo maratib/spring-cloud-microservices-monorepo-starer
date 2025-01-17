@@ -30,3 +30,5 @@
 		</dependencies>
 	</dependencyManagement>
 ```
+
+6. Add the configuration of new microservice to `config/..resources/configuration` folder.
